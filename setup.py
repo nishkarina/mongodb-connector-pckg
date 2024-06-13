@@ -22,7 +22,7 @@ __version__ = "0.0.1"
 REPO_NAME = "mongodb_connector"
 PKG_NAME = "nosqlmongoautomation"
 AUTHOR_USER_NAME = "abhishek"
-AUTHOR_EMAIL = "datascience01@protonmail.com"
+AUTHOR_EMAIL = "nishkarina@protonmail.com"
 
 requirements = get_requirements('requirements.txt')
 
