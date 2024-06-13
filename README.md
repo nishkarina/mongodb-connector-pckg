@@ -32,4 +32,4 @@ This package provides an easy-to-use interface for connecting to MongoDB databas
 You can install the package using pip:
 
 ```bash
-pip install .
+pip install nosqlmongoautomation
